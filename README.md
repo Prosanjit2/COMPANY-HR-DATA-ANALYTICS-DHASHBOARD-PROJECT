@@ -1,2 +1,2 @@
 # COMPANY-HR-DATA-ANALYTICS-DHASHBOARD-PROJECT
-Hello world.This is my Profile.
+Hello this is my Data analytics Dashboard Project. This project are COMPANY-HR-DATA-ANALYTICS-DHASHBOARD-PROJECT
